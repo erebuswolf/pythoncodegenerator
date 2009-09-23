@@ -1,0 +1,15 @@
+cpp
+MyClassname
+public:
+int a;
+char wee='k'
+//!comment line
+static int b=2;
+/*
+*multiline comment
+*/
+protected:
+int legs
+private:
+char graa;
+static int umm;
