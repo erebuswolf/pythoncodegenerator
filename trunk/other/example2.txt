@@ -1,0 +1,6 @@
+java
+circle
+private:
+double x
+double y
+double radius
